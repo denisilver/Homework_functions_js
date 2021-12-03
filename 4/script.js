@@ -31,5 +31,5 @@ function dayOfWeek(num)
         return "Ошибка";
     }    
 }
-let a = dayOfWeek(1);
+let a=dayOfWeek(1);
 alert(a);
