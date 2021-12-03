@@ -8,11 +8,11 @@ function dayOfWeek(num)
     }
     else if (num == 3)
     {  
-        return 'Среда';
+        return "Среда";
     }
     else if(num == 4)
     {
-        return' Четверг';
+        return "Четверг";
     }
     else if(num == 5)
     {
